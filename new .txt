@@ -1,0 +1,41 @@
+<div class="hide-featured-badge hide-favorite-badge">
+<article class="js-photo-item--video photo-item photo-item--overlay photo-item--video js-photo-modal-navigator-watching" data-aspect-ratio="1.7777777777777777" data-hover-delay="true" data-meta-title="Pink Wedding Cake with Blue Roses  · Free Stock Video" data-photo-modal-medium-id="5698562" style="padding-top: 56.25%">
+<a title="Pink Wedding Cake with Blue Roses " class="js-photo-link js-photo-item__link photo-item__link" style="background: rgb(0,0,0)" href="/video/pink-wedding-cake-with-blue-roses-5698562/"><img srcset="https://images.pexels.com/videos/5698562/pexels-photo-5698562.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500 500w, https://images.pexels.com/videos/5698562/pexels-photo-5698562.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500 1000w" sizes="(max-width: 540px) 250px, 500px" class="photo-item__img" alt="Pink Wedding Cake with Blue Roses " src="https://images.pexels.com/videos/5698562/pexels-photo-5698562.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500">
+<video class="photo-item__video" muted="" preload="none">
+<source src="https://player.vimeo.com/external/472093568.sd.mp4?s=5822bc76b170c154bc7f4ed0b2f65df4bedfe361&amp;profile_id=139&amp;oauth2_token_id=57447761" type="video/mp4">
+</video>
+<div class="badge-container">
+<span class="favorite-badge" data-tooltip="This photo was uploaded by one of the photographers you follow." data-tooltip-align="left">
+<img height="14" width="14" class="favorite-badge__icon" src="https://www.pexels.com/assets/favorite-f721c3d387889d5c3a9e0943c1836840a2954b9bebab846ca963877afee48f21.svg">
+</span>
+
+<span class="featured-badge" data-tooltip="This video is featured and can be found through search." data-tooltip-align="left">
+  <img height="14" width="14" class="featured-badge__icon" src="https://www.pexels.com/assets/star-1bf7ee8c305832829a0a1e0b5c5d901e34e6732cd67c90715cd9b554a785877b.svg">
+</span>
+
+</div>
+
+</a><a class="photo-item__photographer" data-overview-tooltip-user-id="2779185" href="/@orange-tomato-2779185" data-overview-tooltip-initiated="true" style="cursor: pointer;"><img class="photo-item__avatar" height="30" width="30" role="presentation" data-overview-tooltip-pointer-element="true" src="https://images.pexels.com/users/avatars/2779185/orange-tomato-226.png?auto=compress&amp;fit=crop&amp;h=60&amp;w=60">
+<span class="photo-item__name">Orange Tomato</span>
+</a><div class="photo-item__info">
+<a class="js-download js-download-5698562 rd__button rd__button--download rd__button--no-padding rd__button--text-white rd__button--with-icon" data-medium-id="5698562" data-request-path="/after_download_modal/" download="" href="/video/5698562/download/">
+<i class="rd__button--download--not-active--icon rd__svg-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="100px" width="100px" fill="#000000" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><g><path d="M72.2,43.2L58,57.4V17c0-2.2-1.8-4-4-4s-4,1.8-4,4v40.4L35.8,43.2c-1.6-1.6-4.1-1.6-5.7,0c-1.6,1.6-1.6,4.1,0,5.7l21,21   C52,70.7,53,71,54,71s2-0.4,2.8-1.2l21-21c1.6-1.6,1.6-4.1,0-5.7C76.3,41.6,73.8,41.6,72.2,43.2z"></path><path d="M32,87h44c2.2,0,4-1.8,4-4s-1.8-4-4-4H32c-2.2,0-4,1.8-4,4S29.8,87,32,87z"></path></g></svg>
+</i>
+</a>
+<button class="js-collect js-collect-5698562 rd__button rd__button--collect rd__button--no-padding rd__button--text-white rd__button--with-icon" data-photo-id="5698562" data-initialized="true">
+<i class="rd__button--collect--not-active--icon rd__svg-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path></svg>
+</i>
+<i class="rd__button--collect--active--icon rd__svg-icon" style="display: none"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"></path></svg>
+</i>
+</button>
+<button class="js-like js-like-5698562 rd__button rd__button--like rd__button--no-padding rd__button--text-white rd__button--with-icon" data-photo-id="5698562" data-initialized="true">
+<i class="rd__button--like--not-active--icon rd__svg-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"></path></svg>
+</i>
+<i class="rd__button--like--active--icon rd__svg-icon" style="display: none"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path></svg>
+</i>
+</button>
+</div>
+
+</article>
+
+</div>

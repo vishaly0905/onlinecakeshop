@@ -1,0 +1,70 @@
+<div class="container">
+                        <div class="homepage-carousel-wrapper">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-12" style="min-height: 320px;">
+                                    <div class="image-carousel owl-carousel owl-theme" style="display: block; opacity: 1;">
+                                        <div class="owl-wrapper-outer"><div class="owl-wrapper" style="display: block; width: 1368px; left: 0px; transition: all 800ms ease 0s; transform: translate3d(-228px, 0px, 0px);"><div class="owl-item" style="width: 228px;"><div class="image-carousel-slide">
+                                            <img id="imgTopSlider1" src="assets/student/img/Slide6.jpg">
+                                        </div></div><div class="owl-item" style="width: 228px;"><div class="image-carousel-slide">
+                                            <img id="imgTopSlider2" src="assets/student/img/Slide7.jpg">
+                                        </div></div><div class="owl-item" style="width: 228px;"><div class="image-carousel-slide">
+                                            <img id="imgTopSlider3" src="assets/student/img/Slide8.jpg">
+                                        </div></div></div></div>
+                                        
+                                        
+                                    <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div></div><div class="owl-buttons"><div class="owl-prev"></div><div class="owl-next"></div></div></div></div>
+                                    <!-- /.slider-image -->
+                                </div>
+                                <!-- /.col-md-6 -->
+                                <div class="col-md-6 col-sm-12" style="padding-top: 1%; min-height: 320px;">
+                                    <div class="text-center">
+                                        <div class="row">
+                                            <div class="col-md-12 col-sm-12 hidden-sm hidden-xs" style="margin-top: 0%; margin-bottom: 2%; min-height: 19px;">
+                                                <span id="lblTopUniName" class="h4" style="color:Orange;">Savitribai Phule Pune University</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12 col-sm-12 hidden-sm hidden-xs" style="min-height: 90px;">
+                                                <img id="imgTopUniLogo" class="TopClgLogo" src="_0DataCenter/Uni_SPPU/sppu_Logo.png">
+                                                <img id="imgTopColgLogo" class="TopClgLogo" src="_0DataCenter/IMCC_PG/IMCC_PG_Logo.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12 col-sm-12 hidden-sm hidden-xs" style="margin-bottom: 1%; margin-top: 2% !important; min-height: 19px;">
+                                                <span id="lblTrustName" class="h4">Maharashtra Education Society's</span>
+                                            </div>
+                                        </div>
+                                        <div class="row hidden-lg hidden-md ">
+                                            <div class="col-md-12 col-sm-12 " style="margin-top: 2%; margin-bottom: 3%; background-color: black; color: white; min-height: 0px;">
+                                                <span id="lblTopInstituteNameHidden" class="h4" style="color:Yellow;">Institute Of Management And Career Courses</span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-12 col-sm-12 hidden-sm hidden-xs" style="margin-top: 2%; margin-bottom: 3%; min-height: 66px;">
+                                                <span id="lblTopInstituteName" class="h2" style="color:Yellow;">Institute Of Management And Career Courses</span>
+                                            </div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                        <div class="row">
+                                            <div class="col-md-12 hidden-sm hidden-xs" style="min-height: 17px;">
+                                                <span id="lblTopAddress" class="h5" style="color:White;">131, Mayur Colony Kothrud Pune-411038</span>
+                                            </div>
+                                            <div class="col-md-12 hidden-sm hidden-xs" style="min-height: 17px;">
+                                                <span id="lblTopContactNo" class="h5" style="color:White;">020 2546 6271</span>
+                                            </div>
+                                        </div>
+                                        <!-- /.row -->
+                                    </div>
+                                    <!-- /.slider-content -->
+                                </div>
+                                <!-- /.col-md-6 -->
+                            </div>
+                            <div class="row text-center" style="padding-top: 10px;">
+                                
+                            </div>
+                            <!-- /.row -->
+                            <div class="background"></div>
+                        </div>
+                        <!-- /.slider-wrapper -->
+                        <div class="slider-inner"></div>
+                    </div>
