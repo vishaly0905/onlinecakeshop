@@ -98,7 +98,7 @@
             <span>List of Orders</span></a>
         </li>
          <li class="nav-item">
-           <a class="nav-link" href="new.php">
+           <a class="nav-link" href="new2.php">
 		   
            <i class="fas fa-truck"></i>
             <span>Delivery</span></a>

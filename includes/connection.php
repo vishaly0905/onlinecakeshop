@@ -1,4 +1,4 @@
-//vishal yadav<?php
+<?php
 // $db = mysqli_connect('localhost:3306', 'root','Aa@1mysql') or
  //       die ('Unable to connect. Check your connection parameters.');
  //       mysqli_select_db($db, 'cakes' ) or die(mysqli_error($db));

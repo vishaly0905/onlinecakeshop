@@ -48,5 +48,5 @@ if($_GET["action"]=='adds') {
     	
 <script type="text/javascript">
 			alert("Successfully added.");
-			window.location = "transaction.php";
+			window.location = "order.php";
 		</script>

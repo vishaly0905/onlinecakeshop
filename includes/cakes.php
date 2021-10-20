@@ -91,7 +91,10 @@ $selected_val = $_POST['quantity1'];  // Storing Selected Value In Variable
 echo "\n You have selected :" .$selected_val." KG";  // Displaying Selected Value
 }
 ?>
-
+          <h4 width="200"  style="text-decoration: line-through" style="text-align: center">
+                                     &#8377 <?php 
+                                     $price=$row["selling_price"]*$selected_val;
+                                     echo $price+($price*$selected_val/10); ?>.00 <h6><?php echo $selected_val*10 ?>% Saving</h6></h4>
          <h4 class="text-danger">&#8377 <?php echo $row["selling_price"]*$selected_val; ?>.00</h4>
        <input class="form-control" type="hidden" placeholder="Quantity" name="quant" value="1">
        <input class="form-control" type="hidden" name="av" value="<?php echo $row["available"]; ?>">
@@ -107,7 +110,7 @@ echo "\n You have selected :" .$selected_val." KG";  // Displaying Selected Valu
                                         <h2>Key attributes :</h2>
                                     </div>
 
-                                        <ul class="sDescExtra attr"><li class="pdp-description">Weight : <?php echo $selected_val ?> Kg</li><li class="pdp-description">Flavours : <?php echo $row["product_name"]; ?> </li><li class="pdp-description">Shape : Round </li><div class="clear"></div></ul>
+                                        <ul class="sDescExtra attr"><li class="pdp-description">Weight : <?php echo $selected_val ?> Kg</li><li class="pdp-description">Flavours : <?php echo $row["product_name"]; ?> </li><li class="pdp-description">Shape : Round </li><li>By order now,You are saving :&#8377 <?php echo $price*$selected_val*0.1;  ?> </li><div class="clear"></div></ul>
 
 
                             <div id="more-details" style="margin-top: 20px; display: none;"><span onclick="toggleDetails()" class="pdp-blue-header">More details</span></div>
